@@ -1,4 +1,4 @@
-# 🌟 Template_Arquinature 🌟
+# 🌟 Arquinature 🌟
 
 ## 🚀 Deployed on: 
 https://agxc-arquinatura-demo.netlify.app/ 
